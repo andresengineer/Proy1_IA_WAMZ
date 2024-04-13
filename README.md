@@ -28,12 +28,12 @@ En cada búsqueda que emprenda Mando, este podrá realizar desplazamientos simpl
 Si Mando llega a una casilla donde hay un enemigo y no va en la nave, el costo será 5 (allí está incluido el costo del movimiento y del daño ocasionado por el enemigo). En el ambiente siempre hay una sola nave, pero la cantidad de enemigos puede variar.
 La información del mundo se representa por medio de los siguientes números:
 
-• 0 si es una casilla libre
-• 1 si es un muro
-• 2 si es el punto de inicio
-• 3 si es la nave
-• 4 si es un enemigo
-• 5 si es Grogu
+- 0 si es una casilla libre
+- 1 si es un muro
+- 2 si es el punto de inicio
+- 3 si es la nave
+- 4 si es un enemigo
+- 5 si es Grogu
 
 Por ejemplo para este mundo 
 
