@@ -61,6 +61,11 @@ Para poder ver los distintos tipos de algoritmos podra seleccionarlo en un menu 
 git clone https://github.com/andresengineer/Proy1_IA_WAMZ.git
 ```
 
+### Requerimientos
+```bash
+pip install -r requirements.txt
+
+```
 
 ### Ejecución 
 Para ejecutar el archivo ```main.py```, se debe ubicar en la carpeta del programa y ejecutar el siguiente comando:
